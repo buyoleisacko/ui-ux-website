@@ -1,0 +1,8 @@
+<div>
+  <div class="labels">
+    <label>Label</label>
+  </div>
+  <div class="rightClass">
+    <input type="text" />
+  </div>
+</div>
